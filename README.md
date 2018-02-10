@@ -109,6 +109,11 @@ beginning of the call.
 #### 3.1 Work Flow 
 ![alt text](https://github.com/Nikunj-Gupta/Engine/blob/master/fig.png "Functional Work flow ")
 
+```
+Figure 1: Functional Work flow 
+```
+
+
 The engine involves three important structures. Firstly, the set of users who
 would want to call the engine. Secondly, the IVR system that interacts with
 the user via questions and input answers. And thirdly, the storage, where the
@@ -116,6 +121,9 @@ frequencies and short codes are stored which are used to make the lives of the
 users easier. All these are displayed in the diagram above.
 
 ![alt text](https://github.com/Nikunj-Gupta/Engine/blob/master/workflow.jpg "Figure 1 shows the step-wise flow of our engine (explained below)")
+```
+Figure 1 shows the step-wise flow of our engine (explained below). 
+```
 
 - Step 1: A user calls the system.
 - Step 2: The engine checks his details in the storage file. He/She could
