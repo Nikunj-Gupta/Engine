@@ -1,0 +1,4 @@
+  File "prevTraversal.py", line 495
+    while (option is not in prevPath): 
+                          ^
+SyntaxError: invalid syntax

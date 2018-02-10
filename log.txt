@@ -1,0 +1,18 @@
+Phone Number: Do you want to run your short codes ? Press (y/n): Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for 4294967295, skipping unlock
+JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for 4294967295, skipping unlock
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for 4294967295, skipping unlock
+JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for 4294967295, skipping unlock
+Traceback (most recent call last):
+  File "prevTraversal.py", line 595, in <module>
+    test() 
+  File "prevTraversal.py", line 501, in test
+    newpath = user(root,prevPath,freq,overallfreq) 
+  File "prevTraversal.py", line 166, in user
+    inp = str.lower(inp) 
+TypeError: descriptor 'lower' requires a 'str' object but received a 'unicode'
